@@ -7,7 +7,7 @@ You'll find the flag in the description of the #announcements channel!
 
 ## Flag
 ```
-utflag{strings_is_op}
+utflag{utflag{welcome_to_utctf}}
 ```
 ## Solution
-Mendownload file ```calc``` lalu membukanya pada hexa editor, lalu ditemukan flag tersebut.
+Flag tertera pada details / description channel announcement server discord UTCTF 2021
