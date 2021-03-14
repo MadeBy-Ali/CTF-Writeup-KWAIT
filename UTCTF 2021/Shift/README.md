@@ -8,4 +8,4 @@ I just tried to download this flag, but it looks like the image got messed up in
 utflag{not_when_i_shift_into_maximum_overdrive}
 ```
 ## Solution
-skew file png yang bernama ```SHIFT.png```
+skew file png yang bernama ```SHIFT.png``` dan hasil file yang telah di skew akan menunjukkan flag tersebut
