@@ -19,3 +19,14 @@
 - III. Web
     - [Oinker](https://github.com/dimasssph/CTF-Writeup-KWAIT/tree/main/UTCTF%202021/Oinker)
     - [Source It!](https://github.com/dimasssph/CTF-Writeup-KWAIT/tree/main/UTCTF%202021/Source%20it!)
+
+## Score Overtime
+![Score over Time](https://user-images.githubusercontent.com/55182072/111099599-71fe6800-8578-11eb-83b4-c6dd0cd9dd48.png)
+
+### DvCTF 2021
+- I. Stega
+    - [Read](https://github.com/dimasssph/CTF-Writeup-KWAIT/tree/main/DvCTF%202021/Read)
+    - [Pidieff](https://github.com/dimasssph/CTF-Writeup-KWAIT/tree/main/DvCTF%202021/Pidieff)
+
+- II. Crypto
+    - [Substitution](https://github.com/dimasssph/CTF-Writeup-KWAIT/tree/main/DvCTF%202021/Substitution)
