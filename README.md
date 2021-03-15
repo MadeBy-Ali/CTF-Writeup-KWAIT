@@ -30,3 +30,6 @@
 
 - II. Crypto
     - [Substitution](https://github.com/dimasssph/CTF-Writeup-KWAIT/tree/main/DvCTF%202021/Substitution)
+
+- III. Web
+    - [Obfuscation](https://github.com/dimasssph/CTF-Writeup-KWAIT/tree/main/DvCTF%202021/Obfuscation)
