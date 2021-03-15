@@ -8,4 +8,14 @@
 ### UTCTF 2021
 - I. Beginner
     - [Sanity Check](https://github.com/dimasssph/CTF-Writeup-KWAIT/tree/main/UTCTF%202021/Sanity%20Check)
-    - 
+    - [Stringy Things](https://github.com/dimasssph/CTF-Writeup-KWAIT/tree/main/UTCTF%202021/Stringy%20Things)
+    - [Cipher Gauntlet](https://github.com/dimasssph/CTF-Writeup-KWAIT/tree/main/UTCTF%202021/Cipher%20Gauntlet)
+    - [Magic Bytes](https://github.com/dimasssph/CTF-Writeup-KWAIT/tree/main/UTCTF%202021/Magic%20Bytes)
+    - [HTML](https://github.com/dimasssph/CTF-Writeup-KWAIT/tree/main/UTCTF%202021/HTML)
+
+- II. Forensics
+    - [Shift](https://github.com/dimasssph/CTF-Writeup-KWAIT/tree/main/UTCTF%202021/Shift)
+
+- III. Web
+    - [Oinker](https://github.com/dimasssph/CTF-Writeup-KWAIT/tree/main/UTCTF%202021/Oinker)
+    - [Source It!](https://github.com/dimasssph/CTF-Writeup-KWAIT/tree/main/UTCTF%202021/Source%20it!)
