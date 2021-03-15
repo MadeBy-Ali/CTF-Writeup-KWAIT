@@ -7,4 +7,5 @@
 ## Problem List
 ### UTCTF 2021
 - I. Beginner
-    - [Sanity Check](./UTCTF 2021/Sanity Check/README.md)
+    - [Sanity Check](https://github.com/dimasssph/CTF-Writeup-KWAIT/tree/main/UTCTF%202021/Sanity%20Check)
+    - 
