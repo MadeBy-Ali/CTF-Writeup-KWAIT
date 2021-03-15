@@ -10,4 +10,4 @@ Hint : Post two phrases with the same text and notice what changes between them
 utflag{traversal_bad_dude}
 ```
 ## Solution
-Buka website ```http://web2.utctf.live:5320/``` lalu ketikkan kata oink pada kolom, lalu submit. Setelah submit maka akan mengambil file bernomor 55. Lalu angka 55 tersebut diganti 2. Dan didapatkan file tersebut
+Buka website ```http://web2.utctf.live:5320/``` lalu ketikkan kata oink pada kolom, lalu submit. Setelah submit maka akan mengambil file bernomor 55. Lalu angka 55 tersebut diganti 2. Dan didapatkan flag tersebut
